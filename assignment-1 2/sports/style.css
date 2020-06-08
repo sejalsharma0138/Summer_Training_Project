@@ -1,0 +1,11 @@
+body{
+background-color:silver;
+font-size:18px;
+font-weight:lighter;
+background-image:url(88.jpg);
+<!-- lighter/bold/normal/bolder-->
+}
+h1{
+
+background-color:pink;
+}
